@@ -1,6 +1,13 @@
 # InverterPuzzle
 
+<img src="https://github.com/akita11/InverterPuzzle/blob/main/InvPuz.jpg" width="480px">
+
 CMOSプロセスで設計したインバータ（NOTゲート）のレイアウトと3次元構造を模したアクリルパズルの加工データです。
+
+<img src="https://github.com/akita11/InverterPuzzle/blob/main/side.jpg" width="480px">
+
+コンタクト・Viaを黒アクリルで加工すると、横からみたときに縦方向の接続がわかりやすいです。（特に拡散とゲートが同じCnt穴でもエッチングが止まるところ＝Cntが埋まるところが違うのが見どころ）
+
 
 ## 組み立て方
 以下のレイヤと色の対応をみながら、インバターのレイアウトをつくります。
